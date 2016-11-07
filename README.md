@@ -106,3 +106,10 @@
 <div align=center>
 <img src="https://github.com/guiyongdong/Resource/blob/master/hexoImage/PhotoManager.gif?raw=true"/>
 </div>
+
+
+### 使用：
+
+pod 'GGPhotoManager', '~> 1.0'
+
+
